@@ -1,0 +1,12 @@
+# frozen_string_literal: true
+
+source "https://rubygems.org"
+
+# gem "rails"
+
+gem "rubocop", "~> 1.60"
+gem "sequel", "~> 5.76"
+
+gem "rake", "~> 13.1"
+
+gem "sequel_pg", "~> 1.17"
